@@ -1,0 +1,13 @@
+html {
+box-sizing: border-box;
+-webkit-text-size-adjust:100%;
+text-size-adjust:100%;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+ul {
+  fill: #000
+}
